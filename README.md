@@ -63,7 +63,7 @@ A shared n8n works until it doesn’t: someone edits a workflow that isn’t the
 <p align="center">
   <sub>جزء من منظومة <b>أساس</b> · Part of the <b>Asaas</b> ecosystem</sub>
   <br>
-  <sub>من تصميم وبناء <a href="https://github.com/AladdinAlynaey">علاء الدين</a> · Designed and built by <a href="https://github.com/AladdinAlynaey">Alaadin</a></sub>
+  <sub>من تصميم وبناء <a href="https://github.com/AladdinAlynaey">علاء الدين اليناعي</a> · Designed and built by <a href="https://github.com/AladdinAlynaey">Alaadin Alynaey</a></sub>
   <br>
   <sub>© 2026 · جميع الحقوق محفوظة · All rights reserved</sub>
 </p>
